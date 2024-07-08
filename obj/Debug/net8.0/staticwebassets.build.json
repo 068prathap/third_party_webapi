@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WOf5hbZjLsHxj1wR2pXPbnsXYB6H0hY7/1j66Dk6SW4=",
+  "Source": "ThirdPartyApi",
+  "BasePath": "_content/ThirdPartyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
